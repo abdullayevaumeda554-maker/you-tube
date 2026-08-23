@@ -28,3 +28,21 @@ button {
     border: none;
     border-radius: 20px;
 }
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 30px;
+}
+
+.video-card {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.video {
+    height: 180px;
+    background: #ddd;
+    border-radius: 8px;
+}
