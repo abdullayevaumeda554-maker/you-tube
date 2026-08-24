@@ -1,0 +1,55 @@
+# 🎬 YouTubeTV — Kichik Video Sahifasi
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-live-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Netlify-00C7B7?logo=netlify)
+![Type](https://img.shields.io/badge/type-o'quv%20loyihasi-blue)
+
+**Video interfeysini o'rganish uchun yaratilgan kichik mashq loyihasi 🎥**
+
+[🌐 Saytga o'tish](https://youtubecomtv.netlify.app/)
+
+</div>
+
+---
+
+## 📌 Loyiha haqida
+
+Bu — video platformalar dizaynini mashq qilish maqsadida yaratilgan **kichik o'quv loyihasi**. Sahifada 3 ta video/rasm joylashtirilgan bo'lib, layout va interfeys qurilishini o'rganish uchun tayyorlangan.
+
+> ℹ️ Bu mustaqil, rasmiy bo'lmagan mashq loyihasi bo'lib, hech qanday katta platforma bilan bog'liq emas.
+
+---
+
+## ✨ Xususiyatlari
+
+- 🎞️ 3 ta video/rasm bloki
+- 📱 Oddiy va tushunarli interfeys
+- ⚡ Yengil va tez yuklanadi
+
+---
+
+## 🛠️ Texnologiyalar
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📦 Ishga tushirish
+
+```bash
+git clone https://github.com/username/youtubecomtv.git
+cd youtubecomtv
+# index.html faylini brauzerda oching
+```
+
+---
+
+<div align="center">
+
+**🎥 Kichik loyiha, katta mashq! 🎥**
+
+</div>
